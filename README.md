@@ -2,7 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# State of data science in Spanish and its application in the field of AI
+# State of data science in Spanish and its application in AI
 
 Final project for the Building AI course
 
